@@ -1,4 +1,4 @@
-# Wandelust
+# Wanderlust
 
 Wandelust is a travel accommodation platform that allows users to discover and book unique places to stay around the world. Whether you're looking for a cozy cabin in the mountains or a beachfront villa, Wandelust has you covered.
 
