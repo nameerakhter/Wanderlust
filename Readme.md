@@ -2,7 +2,8 @@
 
 Wandelust is a travel accommodation platform that allows users to discover and book unique places to stay around the world. Whether you're looking for a cozy cabin in the mountains or a beachfront villa, Wandelust has you covered.
 
-![Wandelust Logo](link/to/logo.png)
+
+![2V3Yl1CA85F0GZr5XE39pK5mL9i-desktop](https://github.com/nameerakhter/Wanderlust/assets/120779958/ea7d1fee-b6f0-41a6-9dec-90376b88c70f)
 
 ## Features
 
