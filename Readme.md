@@ -12,7 +12,7 @@ Wanderlust is a travel accommodation platform that allows users to discover and 
 
 ## Demo
 
-Check out the deployed version of Wanderlust: [https://wanderlust-dao5.onrender.com](https://wanderlust-dao5.onrender.com) (make sure to click on the Explore button as soon as you land on the website)
+Check out the deployed version of Wanderlust: [https://wanderlust-dao5.onrender.com]([https://wanderlust-dao5.onrender.com](https://wanderlust-dao5.onrender.com/listings)) (make sure to click on the Explore button as soon as you land on the website)
 
 ## Screenshots
 #Wanderlust Home Page
